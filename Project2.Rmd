@@ -1,0 +1,82 @@
+---
+title: "Project 2"
+author: "S Santos"
+date: "Thursday, September 25, 2014"
+output: html_document
+---
+
+## DETAILS on PROJECT 2 
+
+**GROUP**: 1
+
+**TITLE**: van der Waals and Cassimir forces: Retardation and frequency effects on London dispersion forces
+
+
+## Stage 1
+
+* Hamaker's Paper
+
+**WORK**: 6th of October 2014 
+
+1. Group 1 will give a 15 minutes presentation of this paper. 7.5 minutes one person in the group and 7.5 minutes another person. 
+
+2. Then Dr Chiesa and Dr Santos will ask questions for 15 minutes. 
+
+3. The rest of the class will be dedicated to group 2.
+
+4. Group 1 will hand in **the presentation** and **a document** containing 
+5-20 references that the group thinks will be important to understand 
+how to go from the Hamaker approach to Cassimir forces. 
+
+
+**Paper to Read**: 
+Hamaker, H. C. The London - van der Waals attraction between spherical particles. Physica 4, 1058-1072 (1937).
+
+Download it [here](http://www.damtp.cam.ac.uk/user/gold/pdfs/teaching/hamaker.pdf)
+
+
+## Stage 2 (October)
+
+- Read the following paper:
+
+Munday, J. N., Capasso, F. & Parsegian, V. A. Measured long-range repulsive Casimir-Lifshitz forces. Nature 457, 170-173 (2009).
+
+Find it [here](http://www.nature.com/nature/journal/v457/n7226/abs/nature07610.html)
+
+- During this month you need to produce a presentation and a document, i.e. references, etc., as you did during stage 1 for the Hamaker paper.
+
+- At the end of October, begining of november Group 1 **will give a presentation** and submit the documents as in stage 1.
+
+
+## Stage 3 (November)
+
+**THE GOAL IS THAT BY THE END OF NOVEMBER:**
+ 
+-	You (the group) will **present a single document** including:
+
+1) 50-100 words of abstract describing your article AND OVERALL topic. 
+2) 100-200 words of introduction to the topic. It doesnt have to be about this paper only, but about the topic of the article. 
+3) 2000-3000 words of body summarising the topic and article. 
+4) Conclusions of 50-150. 
+5) the document needs to inlcude 5-15 references, some not included in the articles you read. 
+
+This will count 40-50% of the final grade. You will have to do this project at the end of the course, if needed, if you want to pass the course. 
+
+- 20 minutes (each group) for an oral presentation based on the document produced. 
+
+-  Two  people in the group will present.
+
+-	Then there will be 10 minutes of questions. The class can ask anybody in the team to answer.
+
+-	Finally, if we note someone is not answering any question, and doesn't do any work, this person will then become a separate and individual group for the rest of the course. 
+
+-	This project **SHOULD NOT involve more than 25 hours reading and maybe 5 to 10 generating the project**. You can help each other and not all of you have to do everything! It is important you learn how to get infomration fast and efficiently! So don't employ too much time! 
+
+
+
+
+
+
+
+
+
